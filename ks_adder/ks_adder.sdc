@@ -1,6 +1,6 @@
 ##############################################################
 # ks_adder.sdc
-# Simple, working SDC. Edit ONLY the USER-SET PARAMETERS block.
+# Edit ONLY the USER-SET PARAMETERS block.
 ##############################################################
 
 ######################## USER-SET PARAMETERS ########################
